@@ -6,3 +6,8 @@ body {
     background-color: #fff;
     color: #fff;
 }
+
+h1{
+    color: rgb(210, 2, 2);
+    text-transform: uppercase;
+}
